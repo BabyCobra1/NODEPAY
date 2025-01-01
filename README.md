@@ -1,4 +1,4 @@
-# NodePay Auto Mining
+# NodePay Auto Mining By RGYUGHI
 
 Script untuk menjalankan auto mining NodePay dengan multi akun dan proxy support.
 
