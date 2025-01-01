@@ -1,0 +1,14 @@
+asyncio
+aiohttp
+uuid
+cloudscraper
+loguru
+colorama
+pytz
+fake-useragent==1.5.0
+python-dateutil
+requests
+schedule
+curl_cffi
+pyfiglet
+termcolor
