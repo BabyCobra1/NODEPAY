@@ -8,7 +8,9 @@ Script untuk menjalankan auto mining NodePay dengan multi akun dan proxy support
 - Auto ping untuk mining
 - Auto daily claim
 - Batasan koneksi bersamaan (100 koneksi)
-
+## Proxy!!!
+Langsung aja beli disini biar kalian dapat diskon pembelian pertama kali
+https://dataimpulse.com/?aff=73117
 ## Cara Install & Menjalankan
 
 ### Windows
